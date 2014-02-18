@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Validate_IR": "./"
+            "Validate": "./"
         }
     },
     "description": "Data validation class for Iran.",
