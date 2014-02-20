@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "email": "arash.hemmat@gmail.com",
+            "name": "Arash Hemmat",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Validate": "./"
+        }
+    },
+    "description": "Data validation class for Iran.",
+    "include-path": [
+        "./"
+    ],
+    "license": "BSD License",
+    "name": "pear/validate_ir",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Validate_IR",
+        "source": "https://github.com/pear/Validate_IR"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
